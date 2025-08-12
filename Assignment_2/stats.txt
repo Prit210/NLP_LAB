@@ -1,0 +1,2 @@
+Accepted words: 198756
+NOt Accepted words: 4037
